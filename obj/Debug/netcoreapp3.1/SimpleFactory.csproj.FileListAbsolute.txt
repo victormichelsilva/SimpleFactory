@@ -1,0 +1,14 @@
+D:\Victor\Estudos\C#\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.exe
+D:\Victor\Estudos\C#\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.deps.json
+D:\Victor\Estudos\C#\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.runtimeconfig.json
+D:\Victor\Estudos\C#\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.runtimeconfig.dev.json
+D:\Victor\Estudos\C#\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.dll
+D:\Victor\Estudos\C#\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.pdb
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csproj.AssemblyReference.cache
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfoInputs.cache
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfo.cs
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.dll
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.pdb
+D:\Victor\Estudos\C#\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.genruntimeconfig.cache
